@@ -1,2 +1,1 @@
-# CSCE313_PA1
-Submission for PA1
+https://github.com/thompaar003/CSCE313_PA1/
